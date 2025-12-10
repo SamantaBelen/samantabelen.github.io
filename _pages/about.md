@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<!-- I’m a Ph.D. Candidate in Robotics at the University of Michigan, working in the [MMINT Lab](https://mmintlab.com), advised by [Prof. Nima Fazeli](https://www.mmintlab.com/people/nima-fazeli/) and co-advised by [Prof. Andrew Owens]("https://andrewowens.com/").
+I’m a Ph.D. Candidate in Robotics at the University of Michigan, working in the [MMINT Lab](https://mmintlab.com), advised by [Prof. Nima Fazeli](https://www.mmintlab.com/people/nima-fazeli/) and co-advised by [Prof. Andrew Owens]("https://andrewowens.com/").
 🔬 My research focuses on tactile-based manipulation, combining learning, optimization, and controls to enable robots to interact more intelligently and effectively with their environments.
-🎓 Excited to be approaching graduation (March 2025) and eager to explore opportunities to push the boundaries of AI, machine learning, and robotics! -->
+🎓 Excited to be approaching graduation (March 2025) and eager to explore opportunities to push the boundaries of AI, machine learning, and robotics!
 
 👨🏻‍💻 I'm currently a Postdoctoral Researcher at University of Michigan in the [MMINT Lab](https://mmintlab.com), where I completed my PhD in Robotics under the guidance of [Prof. Nima Fazeli](https://www.mmintlab.com/people/nima-fazeli/).
 
