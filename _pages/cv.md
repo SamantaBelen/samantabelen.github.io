@@ -47,7 +47,7 @@ redirect_from:
   <li><strong>May 2019 – Aug 2019: Undergraduate Researcher, Summer Research Internship</strong>
     <ul>
       <li>University of Illinois, Urbana-Champaign</li>
-      <li>POETS Research Center, University of Illinois, IL</li>
+      <li>POETS Research Center</li>
       <li>Advisor: James Allison</li>
     </ul>
   </li>
