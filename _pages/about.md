@@ -21,7 +21,7 @@ I am excited to continue advancing tactile sensing and robot learning, and to ex
 # Highlights
 
 <p style="float: left; position: relative; margin-right: 5px;">
-  <a href="/publication/2024-08-01-cttp">
+  <a href="/publication/2024-08-01-cctp">
     <img src="/images/projects/cttp.png" width="250" style="border-radius:5%; cursor: pointer; transition: transform 0.2s ease-in-out;"/>
     <span class="image-text">Contrastive Touch-to-Touch Pretraining</span>
   </a>
