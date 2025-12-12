@@ -8,7 +8,7 @@ venue: 'Preprint'
 image: "/images/projects/touch2touch.gif"
 paperurl: 'https://www.arxiv.org/abs/2409.08269'
 website: 'https://www.mmintlab.com/research/touch2touch/'
-authors: '<b>Samanta Rodriguez*</b>, Yiming Do*u, <b>Miquel Oller</b>, Andrew Owens, Nima Fazeli'
+authors: '<b>Samanta Rodriguez*</b>, Yiming Do*u, Miquel Oller, Andrew Owens, Nima Fazeli'
 citation: "{{ authors }} &quot;{{ title }}&quot;.<i> {{venue}} {{ date | date: '%Y' }}</i>."
 videourl: 'https://www.mmintlab.com/wp-content/uploads/2024/07/Touch2Touch-CoRL_2024_video.mp4'
 ---
