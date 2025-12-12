@@ -99,7 +99,7 @@ I am excited to continue advancing tactile sensing and robot learning, and to ex
       cursor: pointer;
       box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"
   >
-    Show More Research Projects
+    Show More
   </button>
 </div>
 
