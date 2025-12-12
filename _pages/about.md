@@ -22,21 +22,21 @@ I am excited to continue advancing tactile sensing and robot learning, and to ex
 
 <p style="float: left; position: relative; margin-right: 5px;">
   <a href="/publication/2024-08-01-cttp">
-    <img src="/images/projects/cttp.png" width="265" style="border-radius:5%; cursor: pointer; transition: transform 0.2s ease-in-out;"/>
+    <img src="/images/projects/cttp.png" width="200" style="border-radius:5%; cursor: pointer; transition: transform 0.2s ease-in-out;"/>
     <span class="image-text">Contrastive Touch-to-Touch Pretraining</span>
   </a>
 </p>
 
 <p style="float: left; position: relative; margin-right: 5px;">
   <a href="/publication/2024-07-01-touch2touch">
-    <img src="/images/projects/touch2touch.gif" width="265" style="border-radius:5%; cursor: pointer; transition: transform 0.2s ease-in-out;"/>
+    <img src="/images/projects/touch2touch.gif" width="200" style="border-radius:5%; cursor: pointer; transition: transform 0.2s ease-in-out;"/>
     <span class="image-text">Touch2Touch</span>
   </a>
 </p>
 
 <p style="float: left; position: relative;">
   <a href="/publication/2025-08-01-cross-sensor-touch-generation">
-    <img src="/images/projects/t2d2/t2d2_bc.gif" width="265" style="border-radius:5%; cursor: pointer; transition: transform 0.2s ease-in-out;"/>
+    <img src="/images/projects/t2d2/t2d2_bc.gif" width="200" style="border-radius:5%; cursor: pointer; transition: transform 0.2s ease-in-out;"/>
     <span class="image-text">Cross-Sensor Touch Generation</span>
   </a>
 </p>
