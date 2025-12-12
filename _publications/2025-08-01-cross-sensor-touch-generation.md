@@ -8,7 +8,7 @@ venue: '9th Conference on Robotic Learning (CoRL)'
 image: "/images/projects/t2d2/t2d2_bc.gif"
 paperurl: 'https://openreview.net/pdf?id=oGcC8nMOit'
 website: 'https://samantabelen.github.io/cross_sensor_touch_generation'
-authors: 'Samanta Rodriguez, Yiming Dou, <b>Miquel Oller</b>, Andrew Owens, Nima Fazeli'
+authors: '<b>Samanta Rodriguez*<\b>, Yiming Dou*, Miquel Oller, Andrew Owens, Nima Fazeli'
 citation: "{{ authors }} &quot;{{ title }}&quot;.<i> {{venue}} {{ date | date: '%Y' }}</i>."
 videourl: 'https://www.mmintlab.com/wp-content/uploads/2024/07/Touch2Touch-CoRL_2024_video.mp4'
 ---
