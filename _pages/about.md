@@ -130,7 +130,7 @@ I am excited to continue advancing tactile sensing and robot learning, and to ex
 </script>
 
 
-<h2>Featured GitHub Projects</h2>
+<!-- <h2>Featured GitHub Projects</h2>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 1em;">
 
@@ -203,7 +203,7 @@ I am excited to continue advancing tactile sensing and robot learning, and to ex
 
 </div>
 
-<style>
+<style> -->
   a div:hover {
     transform: scale(1.03);
     box-shadow: 0 4px 12px rgba(0,0,0,0.1);
