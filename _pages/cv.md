@@ -30,20 +30,23 @@ redirect_from:
 
   <li><strong>June 2021 – August 2021: Intern</strong>
     <ul>
-      <li>Manufacturing Division, Oak Ridge National Laboratory</li>
+      <li>Oak Ridge National Laboratory, Tennessee</li>
+      <li>Manufacturing Division</li>
       <li>Advisor: Peter Wang</li>
     </ul>
   </li>
 
   <li><strong>Sep 2019 – Jul 2020: Undergraduate Researcher</strong>
     <ul>
-      <li>Applied Research Center, Florida International University, FL</li>
+      <li>Florida International University, Florida</li>
+      <li>Applied Research Center</li>
       <li>Advisor: Anthony Abrahao</li>
     </ul>
   </li>
 
   <li><strong>May 2019 – Aug 2019: Undergraduate Researcher, Summer Research Internship</strong>
     <ul>
+      <li>University of Illinois, Urbana-Champaign</li>
       <li>POETS Research Center, University of Illinois, IL</li>
       <li>Advisor: James Allison</li>
     </ul>
