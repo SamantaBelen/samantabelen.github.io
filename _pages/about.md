@@ -12,7 +12,7 @@ I’m a Ph.D. Candidate in Robotics at the University of Michigan, working in th
 
 My research focuses on **tactile-centric robot learning**, including cross-sensor tactile generation, tactile representation learning, and visuo-tactile models for manipulation and in-hand state estimation.
 
-I have led projects such as [Contrastive Touch-to-Touch Pretraining (CTTP)](https://arxiv.org/pdf/2410.11834) and Cross-Sensor Touch Generation, where I developed methods for translating across heterogeneous tactile sensors and building generalizable tactile representations.
+I have led projects such as [Contrastive Touch-to-Touch Pretraining (CTTP)](https://arxiv.org/pdf/2410.11834) and [Cross-Sensor Touch Generation](https://openreview.net/pdf?id=oGcC8nMOit), where I developed methods for translating across heterogeneous tactile sensors and building generalizable tactile representations.
 
 My research aims to enable robots to understand and interact with the physical world through **rich multimodal tactile perception**, supporting more adaptive and robust manipulation.
 
