@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a Ph.D. Candidate in Robotics at the University of Michigan, working in the [MMINT Lab](https://mmintlab.com), advised by [Prof. Nima Fazeli](https://www.mmintlab.com/people/nima-fazeli/) and co-advised by [Prof. Andrew Owens]("https://andrewowens.com/"). I successfully defended my doctoral dissertation on **November 21st, 2025**.
+I’m a Ph.D. Candidate in Robotics at the University of Michigan, working in the [MMINT Lab](https://mmintlab.com), advised by [Prof. Nima Fazeli](https://www.mmintlab.com/people/nima-fazeli/) and co-advised by [Prof. Andrew Owens](https://andrewowens.com/). I successfully defended my doctoral dissertation on **November 21st, 2025**.
 
 My research focuses on **tactile-centric robot learning**, including cross-sensor tactile generation, tactile representation learning, and visuo-tactile models for manipulation and in-hand state estimation.
 
