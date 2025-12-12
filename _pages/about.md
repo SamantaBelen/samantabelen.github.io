@@ -28,9 +28,9 @@ I am excited to continue advancing tactile sensing and robot learning, and to ex
 </p>
 
 <p style="float: left; position: relative; margin-right: 5px;">
-  <a href="/publication/2024-02-30-tactile-nonprehensile">
-    <img src="/images/projects/extrinsic_pivoting_cropped.gif" width="168" style="border-radius:5%; cursor: pointer; transition: transform 0.2s ease-in-out;"/>
-    <span class="image-text">Non-Prehensile Manipulation</span>
+  <a href="/publication/2024-07-01-touch2touch">
+    <img src="/images/projects/touch2touch.gif" width="168" style="border-radius:5%; cursor: pointer; transition: transform 0.2s ease-in-out;"/>
+    <span class="image-text">Touch2Touch</span>
   </a>
 </p>
 
