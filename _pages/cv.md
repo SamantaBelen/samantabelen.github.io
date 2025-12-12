@@ -15,7 +15,6 @@ redirect_from:
 - **M.S. in Robotics**, University of Michigan, Ann Arbor, MI, 2024  
 - **B.S. in Mechanical Engineering**, Florida International University, 2020 *(Summa Cum Laude)*  
 
-
 ## Work Experience
 
 <ul class="tight-list">
