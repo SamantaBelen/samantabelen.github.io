@@ -84,5 +84,45 @@ Publications
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
+
+## Reviewing
+======
+
+- Primary Reviewer: **ICRA (2024, 2025)**  
+- Primary Reviewer: **CoRL (2025)**  
+- Primary Reviewer: **RA-L (2025)**  
+
+
+## Mentoring
+======
+
+- **Chitrangada Devulapalli (2025)** – Master’s student in Robotics, University of Michigan  
+- **Kevin So (2023)** – Master’s student in Robotics, University of Michigan  
+- **Dereck Fermin Oliveras (2022)** – Master’s student in Robotics, University of Michigan  
+
+
+## Leadership & Service
+======
+
+- Officer, **Robotics Graduate Student Council (RGSC)** — *2022–2024*  
+- Member, **DEI/RCE Committee, Robotics Department** — *2022–2024*  
+
+
+## Awards & Scholarships
+======
+
+- **NSF Graduate Research Fellowship (GRFP)** — 2021–2026  
+- **GEM Fellowship** — 2021–2026  
+- **Rackham Presidential Graduate Fellowship**, University of Michigan — 2022  
+- **Outstanding Graduate Student in Mechanical Engineering**, FIU — 2020  
+- **Winner**, International Atomic Energy Agency Challenge — 2020  
+- **NSF SURP Fellowship**, POETS Research Center — 2019  
+
+
+## Skills
+======
+**Hardware:** KUKA LBR iiwa Med R820, DIGIT, GelSlim, GelSight, TRI Soft Bubble, Intel RealSense, ATI F/T sensor  
+**Programming:** Python, MATLAB  
+**Languages:** Spanish (native), English (fluent)  
   
 
