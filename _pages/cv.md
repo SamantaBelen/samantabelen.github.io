@@ -83,16 +83,14 @@ Publications
 
 ## Reviewing
 
-- Primary Reviewer: **ICRA (2024, 2025)**  
-- Primary Reviewer: **CoRL (2025)**  
-- Primary Reviewer: **RA-L (2025)**  
+- Primary Reviewer: ICRA (2024, 2025), CoRL (2025), RA-L (2025)  
 
 
 ## Mentoring
 
-- **Chitrangada Devulapalli (2025)** – Master’s student in Robotics, University of Michigan  
-- **Kevin So (2023)** – Master’s student in Robotics, University of Michigan  
-- **Dereck Fermin Oliveras (2022)** – Master’s student in Robotics, University of Michigan  
+- Chitrangada Devulapalli (2025) – Master’s student in Robotics, University of Michigan  
+- Kevin So (2023) – Master’s student in Robotics, University of Michigan  
+- Dereck Fermin Oliveras (2022) – Master’s student in Robotics, University of Michigan  
 
 
 ## Leadership & Service
