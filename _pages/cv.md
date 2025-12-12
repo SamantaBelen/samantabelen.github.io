@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-======
 
 - **Ph.D. in Robotics**, University of Michigan, Ann Arbor, MI, 2025  
 - **M.S. in Robotics**, University of Michigan, Ann Arbor, MI, 2024  
@@ -18,7 +17,6 @@ redirect_from:
 
 
 ## Work Experience
-======
 
 <ul class="tight-list">
 
@@ -86,7 +84,6 @@ Publications
   {% endfor %}</ul> -->
 
 ## Reviewing
-======
 
 - Primary Reviewer: **ICRA (2024, 2025)**  
 - Primary Reviewer: **CoRL (2025)**  
@@ -94,7 +91,6 @@ Publications
 
 
 ## Mentoring
-======
 
 - **Chitrangada Devulapalli (2025)** – Master’s student in Robotics, University of Michigan  
 - **Kevin So (2023)** – Master’s student in Robotics, University of Michigan  
@@ -102,14 +98,12 @@ Publications
 
 
 ## Leadership & Service
-======
 
 - Officer, **Robotics Graduate Student Council (RGSC)** — *2022–2024*  
 - Member, **DEI/RCE Committee, Robotics Department** — *2022–2024*  
 
 
 ## Awards & Scholarships
-======
 
 - **NSF Graduate Research Fellowship (GRFP)** — 2021–2026  
 - **GEM Fellowship** — 2021–2026  
@@ -120,7 +114,7 @@ Publications
 
 
 ## Skills
-======
+
 **Hardware:** KUKA LBR iiwa Med R820, DIGIT, GelSlim, GelSight, TRI Soft Bubble, Intel RealSense, ATI F/T sensor  
 **Programming:** Python, MATLAB  
 **Languages:** Spanish (native), English (fluent)  
